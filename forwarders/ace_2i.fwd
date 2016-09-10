@@ -1,0 +1,5 @@
+name=Acekard 2(i)
+gamepath_location=0xED63B
+gamepath_length=251
+banner_location=0x100A00
+version=1

@@ -1,0 +1,5 @@
+name=SuperCard DSTWO
+gamepath_location=0x26AFF
+gamepath_length=258
+banner_location=0x32000
+version=1

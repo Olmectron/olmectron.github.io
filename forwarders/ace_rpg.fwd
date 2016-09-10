@@ -1,0 +1,5 @@
+name=Acekard RPG
+gamepath_location=0x61588
+gamepath_length=240
+banner_location=0x65400
+version=1
