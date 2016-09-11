@@ -1,6 +1,6 @@
 name=Acekard 2(i)
-gamepath_location=0xF4983
+gamepath_location=0xF5A43
 gamepath_length=251
-banner_location=0x107C00
+banner_location=0x108E00
 generate_dat=false
-version=1
+version=2
