@@ -4,3 +4,4 @@ dstt
 dstwo
 r4
 r4idsn
+sdcard
