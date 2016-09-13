@@ -1,6 +1,6 @@
 name=DSi/3DS SD Card (Homebrew ROMs only)
-gamepath_location=0xC7234
+gamepath_location=0xC73AC
 gamepath_length=255
 banner_location=0xDE200
 generate_dat=false
-version=1
+version=2
