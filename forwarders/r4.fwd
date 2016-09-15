@@ -1,6 +1,6 @@
 name=Original R4/M3 Simply
-gamepath_location=0xFCFF7
+gamepath_location=0x5B99D
 gamepath_length=240
-banner_location=0x112800
+banner_location=0x5F800
 generate_dat=false
-version=4
+version=5
