@@ -1,5 +1,6 @@
 name=R4iDSN/R4i Gold RTS
-gamepath_location=0x5BEA5
-gamepath_length=240
-banner_location=0x5FC00
-version=1
+gamepath_location=0xFBF37
+gamepath_length=251
+banner_location=0x111800
+generate_dat=false
+version=2
