@@ -3,4 +3,4 @@ gamepath_location=0xFFD63
 gamepath_length=258
 banner_location=0x115000
 generate_dat=false
-version=2.1
+version=3
