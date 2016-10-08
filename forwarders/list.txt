@@ -2,6 +2,7 @@ ace_2i
 ace_rpg
 dstt
 dstwo
+m3real
 r4
 r4idsn
 sdcard
