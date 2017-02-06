@@ -1,6 +1,6 @@
-name=3DS SD Card (Homebrew & Download Play ROMs only)
-gamepath_location=0xF67D0
-gamepath_length=258
-banner_location=0x10C800
+name=3DS SD Card
+gamepath_location=0x13DA88
+gamepath_length=252
+banner_location=0x153E00
 generate_dat=false
-version=4
+version=13

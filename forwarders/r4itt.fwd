@@ -1,0 +1,6 @@
+name=Ace 3DS+/Gateway Blue Card/R4iTT
+gamepath_location=0x14B543
+gamepath_length=251
+banner_location=0x161200
+generate_dat=false
+version=7

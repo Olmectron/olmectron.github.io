@@ -1,0 +1,6 @@
+name=Acekard 2(i)/M3DS Real/R4i-SDHC v1.4.x
+gamepath_location=0x14B5CF
+gamepath_length=258
+banner_location=0x161200
+generate_dat=false
+version=1
