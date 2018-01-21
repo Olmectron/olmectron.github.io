@@ -1,6 +1,6 @@
 name=DSTT/R4i Gold/R4i-SDHC/R4 SDHC Upgrade/SC DSONE
-gamepath_location=0x15C6AB
+gamepath_location=0x157B7F
 gamepath_length=256
-banner_location=0x157B7F
+banner_location=0x16B000
 generate_dat=false
-version=6
+version=7
