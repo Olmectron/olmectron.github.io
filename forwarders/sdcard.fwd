@@ -1,6 +1,6 @@
 name=3DS SD Card
-gamepath_location=0x13DC64
+gamepath_location=0x13DC14
 gamepath_length=252
 banner_location=0x159200
 generate_dat=false
-version=19
+version=20
